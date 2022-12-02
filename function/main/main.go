@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"example.com/gogogo/function/utils" // 调用包的路径，到文件夹，而不是包名
+	"go-practice/function/utils" // 调用包的路径，到文件夹，而不是包名
 )
 
 // 函数是为了实现某个目标的代码集合

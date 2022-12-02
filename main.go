@@ -2,8 +2,7 @@ package main
 
 import (
 	"fmt"
-
-	"example.com/gogogo/model"
+	"go-practice/model"
 )
 
 func main() {
